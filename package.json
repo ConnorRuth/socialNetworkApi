@@ -1,20 +1,40 @@
 {
 
   "name": "socialnetworkapi",
+
   "version": "1.0.0",
+
   "main": "index.js",
+
   "scripts": {
+
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
+
   "dependencies": {
+
     "express": "^4.19.2",
-    "mongoose": "^8.3.2"
+
+    "mongoose": "^8.3.2",
+
+    "validator": "^13.11.0"
+
   },
+
   "devDependencies": {
+
     "nodemon": "^2.0.9"
+
   },
+
   "keywords": [],
+
   "author": "",
+
   "license": "ISC",
+
   "description": ""
+
 }
+
